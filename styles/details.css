@@ -21,6 +21,7 @@ header {
     border: 0.001px solid black;
     border-bottom: 2px solid black;
     background-image: url(../images/luppyBanner.avif);
+    background-position: center;
     padding-left: 0.625em;
     height: 20vh;
 }
@@ -251,7 +252,8 @@ footer {
 }
 
 footer p {
-    text-align: center;
+    margin-left: 10px;
+    text-align: left;
 }
 
 p {
